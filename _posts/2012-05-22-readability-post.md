@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hahahaha"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
+title: "Firts Post"
+date: 2018-05-22
+excerpt: "My first Post."
 tags: [sample post, readability, test]
 comments: true
 ---
