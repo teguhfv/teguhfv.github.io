@@ -5,8 +5,8 @@ description:        "I'm a Detective also murderer."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/image.png'
-background:         'assets/img/bg-blank.png'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+background:         'assets/img/tilled.jpeg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://teguhfv.github.io
 
