@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Teguh Febbyan Valentino"
+date:   2018-10-05
+excerpt: "Fullstack Developer, Laravel & Ruby on Rails."
 project: true
 tag:
-- jekyll 
-- moon
-- blog
+- teguh 
+- febbyan
+- valentino
 - about
-- theme
+- home
 comments: true
 ---
 
