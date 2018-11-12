@@ -7,7 +7,8 @@ tags:
 - sample post
 - readability
 - test
-comments: true
+
+comments: false
 
 ---
 well this is my first post

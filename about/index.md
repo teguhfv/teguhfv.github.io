@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About Me
-tags: [about, teguh, febbyan, valentino]
+tags: [about, me]
 date: 2018-10-05
 feature: https://pbs.twimg.com/media/DBNEAx_W0AAhITl.jpg
 comments: false
 ---
      
 
-# ABOUT
-
-I have working 9 year's as web developer (3 years as profesional). Created some projects with agile method, i have worked with experienced people and i'm feeling lovely to join strongly group projects.
+I have working 3 year's as web developer (profesional career). Created some projects with agile method, i have worked with experienced people and i'm feeling lovely to join strongly group projects.
 
 ## Skills
 
@@ -24,10 +22,11 @@ I have working 9 year's as web developer (3 years as profesional). Created some 
 * Git 
 
 ## Experience
-I was living in 5 Towns(Semarang, Bandung, Temanggung, Yogyakarta, Bali). Some experiences some stories.
+I was living in 5 Towns (Semarang, Bandung, Temanggung, Yogyakarta, Bali). Some experiences some stories.
 
-#### Mitra-it Bali || Web Developer (2015 - present)
-From internship become team member in July 2015, i have made some project for Mitra-it client made by Laravel framework, Jquery and mysql and my jobdesk is :
+#### Mitra-it Bali (current)
+##### Web Developer (2015 - present)
+From internship become team member in July 2015, i have creating some project for Mitra-it client made by Laravel framework, Jquery, mysql. And my jobdesk is :
 - Requirements Analysis
 - Database Analysis
 - Development
@@ -36,7 +35,8 @@ From internship become team member in July 2015, i have made some project for Mi
 - Featuring
 - System Support
 
-#### Freelance || Web Developer & Graphic Designer  (2009 - present)
+#### Freelance
+##### Web Developer & Graphic Designer  (2009 - present)
 - Web development
 - IT Consultant
 - Hardware Troubleshooting
@@ -51,3 +51,8 @@ From internship become team member in July 2015, i have made some project for Mi
 - Photography
 - Waffle & Coffee Seller
 - Script writter
+
+## Honor & Awards
+I don't have one, but my mom call me handsome.
+
+<a class="btn zoombtn" href="{{ site.url }}/projects"> Projects </a>
