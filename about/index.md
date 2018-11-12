@@ -24,8 +24,7 @@ I have working 3 year's as web developer (profesional career). Created some proj
 ## Experience
 I was living in 5 Towns (Semarang, Bandung, Temanggung, Yogyakarta, Bali). Some experiences some stories.
 
-#### Mitra-it Bali (current)
-##### Web Developer (2015 - present)
+#### Mitra-it Bali ##### Web Developer (2015 - present)
 From internship become team member in July 2015, i have creating some project for Mitra-it client made by Laravel framework, Jquery, mysql. And my jobdesk is :
 - Requirements Analysis
 - Database Analysis
