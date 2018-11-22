@@ -69,7 +69,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-analytics
-
+  - jekyll-seo-tag
 jekyll-mentions:
     base_url: https://github.com
 
