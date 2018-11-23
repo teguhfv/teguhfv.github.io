@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Firts Post
+title: My tools
 date: 2018-05-22 00:00:00 +0000
-excerpt: My first Post.
+excerpt: My tools.
 tags:
 - sample post
 - readability
@@ -11,4 +11,12 @@ tags:
 comments: false
 
 ---
-well this is my first post
+Ubuntu 18.04
+sublime 3
+dbeaver
+mozilla
+pingendo
+postman
+git
+
+all is open and free
