@@ -1,96 +1,59 @@
-# Site
-title:              Teguh Febbyan Valentino
-bio:                'Fullstack Developer, Informatics Engineering Degree<br>Based in Bali Indonesia'
-description:        "I'm a Detective also murderer."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/image.png'
-background:         'assets/img/tilled.jpeg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://teguhfv.github.io
-
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+---
+title: Teguh Febbyan Valentino
+bio: Fullstack Developer, Informatics Engineering Degree<br>Based in Bali Indonesia
+description: I'm a Detective also murderer.
+reading_time: true
+words_per_minute: 200
+logo: assets/img/image.png
+background: assets/img/tilled.jpeg
+tiled_bg: true
+locale: en_US
+url: https://teguhfv.github.io
+permalink: "/:title/"
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
-
-# Comments
-disqus_shortname:   teguhfv
-
-# Social
-# if you don't have any of social below, comment the line.
+  sass_dir: _sass
+  style: compressed
+disqus_shortname: teguhfv
 google:
-  plus:            #TeguhFebbyanValentino
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-email:              teguhfv@gmail.com
-twitter:            teguhfv
-facebook:           teguhfebbyanvalentino
-github-url:         teguhfv
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          teguh-febbyan-valentino
-#xing:              username
-instagram:          teguhfv
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-# steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-
-# Gems
+  plus: 
+email: teguhfv@gmail.com
+twitter: teguhfv
+facebook: teguhfebbyanvalentino
+github-url: teguhfv
+linkedin: teguh-febbyan-valentino
+instagram: teguhfv
 gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-analytics
-  - jekyll-seo-tag
+- jekyll-mentions
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-analytics
+- jekyll-seo-tag
 jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-
-# Plugins
-# plugins:
-
+  base_url: https://github.com
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- gulpfile.js
+- package.json
+- _site
+- src
+- vendor
+- CNAME
+- LICENSE
+- Rakefile
 jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-129079004-1          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
-  # Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
-  #   url: matomo.example.com # Required - url to Matomo installation without trailing /
-  #   siteId: "1234"          # Required - replace with your Matomo site id (Write id as string)
-
-  # Piwik:                    # Add, if you want to track with Piwik
-  #   url: piwik.example.com  # Required - url to Piwik installation without trailing /
-  #   siteId: "1234"          # Required - replace with your Piwik site id (Write id as string)
-
-  # MPulse:                   # Add if you want to track performance with mPulse
-  #   apikey: XXXXX-YYYYY-ZZZZZ-AAAAA-23456   # Required - replace with your mPulse API key
+  GoogleAnalytics:
+    id: UA-129079004-1
+    anonymizeIp: false
