@@ -9,6 +9,19 @@ background: assets/img/tilled.jpeg
 tiled_bg: true
 locale: en_US
 url: https://teguhfv.github.io
+twitter:
+  username: teguhfv
+  card: summary
+social:
+  name: Teguh Febbyan Valentino
+  links:
+    - https://twitter.com/teguhfv
+    - https://www.facebook.com/teguhfebbyanvalentino
+    - https://www.linkedin.com/in/teguh-febbyan-valentino
+    - https://plus.google.com/+TeguhFebbyanValentino
+    - https://github.com/teguhfv
+plugins_dir:
+ -jekyll-sitemap
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
