@@ -3,14 +3,12 @@ layout: page
 title: About Me
 tags: [about, me]
 date: 2018-10-05
-feature: https://pbs.twimg.com/media/DBNEAx_W0AAhITl.jpg
 comments: false
 ---
      
 <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                        <img src="/images/https://pbs.twimg.com/media/DBNEAx_W0AAhITl.jpg" class="img-circle zoombtn animated rotateIn">
                     </a>
-                    {{asset_path}}
 I have working 3 year's as web developer (profesional career). Created some projects with agile method, i have worked with experienced people and i'm feeling lovely to join strongly group projects.
 
 ## Skills
