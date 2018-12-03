@@ -6,7 +6,7 @@ date: 2018-10-05
 comments: false
 ---
      
-<a href="{{ site.url }}">
+<a href="https://media.licdn.com/dms/image/C5103AQFeMs66foQf_w/profile-displayphoto-shrink_200_200/0?e=1548892800&v=beta&t=pxdVgJhsu86XliAeV0tqhnhOUPmeiI0Rfy47QpYJqMI">
                         <img src="https://media.licdn.com/dms/image/C5103AQFeMs66foQf_w/profile-displayphoto-shrink_200_200/0?e=1548892800&v=beta&t=pxdVgJhsu86XliAeV0tqhnhOUPmeiI0Rfy47QpYJqMI" class="img-circle zoombtn animated fadeInDown">
                     </a>
 I have working 3 year's as web developer (profesional career). Created some projects with agile method, i have worked with experienced people and i'm feeling lovely to join strongly group projects.
