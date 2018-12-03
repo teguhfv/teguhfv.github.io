@@ -1,0 +1,17 @@
+---
+layout: post
+title: post jekyll blogs from your mobile phone
+date: 2018-05-22 00:00:00 +0000
+excerpt: the dumb way for jekyll blogging from mobile phone.
+tags:jekyll, blogging, termux
+
+comments: true
+
+---
+* Termux
+* apt get-install git
+* git global-config --all
+* termux set storage
+* editor
+
+Test new post
