@@ -3,7 +3,7 @@ layout: post
 title: post jekyll blogs from your mobile phone
 date: 2018-05-22 00:00:00 +0000
 excerpt: the dumb way for jekyll blogging from mobile phone.
-tags:jekyll, blogging, termux
+tags:jekyll
 
 comments: true
 
