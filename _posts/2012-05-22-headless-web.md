@@ -9,5 +9,4 @@ tags:
 comments: true
 
 ---
-
-https://blogs-teguhfv.netlify.com/
+See a [blogs-teguhfv](https://blogs-teguhfv.netlify.com/) hosted on netlify.      
