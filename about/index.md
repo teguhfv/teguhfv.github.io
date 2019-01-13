@@ -22,7 +22,7 @@ I have working 3 year's as web developer (profesional career). Created some proj
 * Jquery
 * Kanban
 * Git 
-
+* making coffee
 ## Experience
 I was living in 5 Towns (Semarang, Bandung, Temanggung, Yogyakarta, Bali). Some experiences some stories.
 
